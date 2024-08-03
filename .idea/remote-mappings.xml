@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://jph@10.216.135.139:22/home/jph/.conda/envs/jph/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/jph/dir/stone_code" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://qgking@10.216.245.2:22/home/qgking/Desktop/conda_env/dl_env/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/qgking/dir/jph/stone_code" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
